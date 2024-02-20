@@ -6,11 +6,12 @@
 * __[Aula 03 - react-router-dom-v6](https://youtu.be/44QQtoEy3ik?si=-GFuQvsgzZlRNSKM)__
 
 * __[Aula 04 - instalando material ui v5](https://www.youtube.com/watch?v=1JWGiAnR4C0)__
+* __[Aula 05 - Configurando tema no material ui v5](https://www.youtube.com/watch?v=NcGt1dYM1sQ)__
 
 ## Comandos
 * __Cria o projeto react__
 ```bash
-npx create-react-app nome-da-app pasta
+no
 ```
 * __Cria o projeto em typescript__
 ```bash
@@ -41,3 +42,6 @@ npm install @mui/material @emotion/react @emotion/styled
 * __Padrão de Commit__
   - Nº da Aula: Detalhes
     - Lesson 4: Install Material Ui v5
+* __Observações__
+  -  variant (contained) deixa o botão todo preenchido
+      - < Button variant="contained"  color="primary">Hello world< /Button >
