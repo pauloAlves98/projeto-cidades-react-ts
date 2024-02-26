@@ -6,12 +6,16 @@
 * __[Aula 03 - react-router-dom-v6](https://youtu.be/44QQtoEy3ik?si=-GFuQvsgzZlRNSKM)__
 
 * __[Aula 04 - instalando material ui v5](https://www.youtube.com/watch?v=1JWGiAnR4C0)__
+
 * __[Aula 05 - Configurando tema no material ui v5](https://www.youtube.com/watch?v=NcGt1dYM1sQ)__
+
+* __[Aula 06 - Configurando tema escuro e troca de tema](https://www.youtube.com/watch?v=dT3xviWS3WQ&list=PL29TaWXah3iaqOejItvW--TaFr9NcruyQ&index=9)__
+
 
 ## Comandos
 * __Cria o projeto react__
 ```bash
-no
+npx create-react-app nome-da-app pasta
 ```
 * __Cria o projeto em typescript__
 ```bash
